@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @diegomartinez85
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Hadoop/Spark
+- ⚡ Fun fact: i am switching from chemistry major to computer science
